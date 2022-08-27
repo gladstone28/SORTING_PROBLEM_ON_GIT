@@ -1,0 +1,1 @@
+This project is for me to sort out my understanding of git and github so i will be adding files I previously attempedd to keep on the thumb drive
